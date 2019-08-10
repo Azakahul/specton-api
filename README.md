@@ -1,5 +1,6 @@
 # specton-api
 
+[![CircleCI](https://circleci.com/gh/Azakahul/specton-api.svg?style=svg)](https://circleci.com/gh/Azakahul/specton-api)
 go api backend to the specton app for tracking and sharing unique drops and achievements.
 
 ## Testing
